@@ -6,12 +6,11 @@ while addNew:
     person = {}
     person['name'] = str(input('Type name: '))
     person['weight'] = float(input('Type weight: '))
-    height = str(input('Type height: '))
-    if '.' in height:
-        height = float(height)
+    person['height'] = str(input('Type height: '))
+    if '.' in person['height']:
+        person['height'] = float(person['height'])
     else:
-        height = int(height) / 100
-    person['height'] = height
+        person['height'] = int(person['height']) / 100
     person['bmi'] = round(person['weight'] / person['height'] ** 2, 2)
     family.append(person)
     addNextPerson = str(input('Add new person? [Y/n]: '))
