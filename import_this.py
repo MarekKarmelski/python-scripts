@@ -106,4 +106,14 @@ Namespaces are one honking great idea -- let's do more of thos"""
                 print(sentence_rev[0:sentence_rev.find(' ')])
     return
 
-printer_three()
+"""printer_three()"""
+
+
+def list_check():
+    """Check list."""
+    lista = list(range(0, 100))
+    print(lista[::-1])
+    print(lista[-65:-28])
+    return
+
+list_check()
