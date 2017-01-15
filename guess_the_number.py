@@ -35,7 +35,10 @@ def guess_number(flag=100):
             print('PC: My number is bigger.')
             movements += 1
         else:
-            print('You win! You guess the number! Number to guess was: %s' % (number_to_guess))
+            print(
+                'You win! You guess the number! Number to guess was: %s' %
+                (number_to_guess)
+            )
             find = True
     play_again = False
     if movements >= 5:

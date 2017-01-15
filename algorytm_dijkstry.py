@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Dijkstry algorithm."""
+"""Dijkstra's algorithm."""
 
 import math
 import re
@@ -23,8 +23,15 @@ def get_number_of_vertices():
     return number_of_verts
 
 
-def get_number_of_edges():
+def max_edges(number_of_verts):
+    """Get max number of edges."""
+    number_of_max_edges = int((number_of_verts * (number_of_verts - 1)) / 2)
+    return number_of_max_edges
+
+
+def get_number_of_edges(number_of_verts):
     """Get number of edges from input strem."""
+    number_of_max_edges = max_edges(number_of_verts)
     while True:
         try:
             number_of_edges = input('Enter the number of edges: ')
@@ -33,6 +40,11 @@ def get_number_of_edges():
             number_of_edges = int(number_of_edges)
             if number_of_edges < 1:
                 raise Exception('Number of edges should be bigger then 0')
+            if number_of_edges > number_of_max_edges:
+                raise Exception(
+                    'Number of edges should be less than or equal to: %s' %
+                    (number_of_max_edges)
+                )
             break
         except Exception as e:
             print(e)
@@ -43,7 +55,7 @@ def get_start_vertice(number_of_verts):
     """Get number of start vertice."""
     while True:
         try:
-            start_vertice = input('Enter the number of start vertice: ')
+            start_vertice = input('Tap start vertice: ')
             if start_vertice.isdigit() is False:
                 raise Exception('Start vertice should be an integer.')
             start_vertice = int(start_vertice)
@@ -77,6 +89,8 @@ def get_graph(number_of_verts, number_of_edges, verts):
                     raise Exception(err_msg.format(*[0, number_of_verts - 1]))
                 if i_vert == j_vert:
                     raise Exception("Verts can't be the same.")
+                if math.isinf(graph[i_vert][j_vert]) is not True:
+                    raise Exception("Edge already added.")
                 weight = int(matched.group(3))
                 break
             except Exception as e:
@@ -113,7 +127,7 @@ def print_result(result, verts, start_vertice):
 
 
 def dijkstry_algorithm(graph, verts, start_vertice):
-    """Dijkstry algorithm."""
+    """Dijkstra algorithm."""
     q = {}
     for v in verts:
         q[v] = math.inf
@@ -143,11 +157,11 @@ def dijkstry_algorithm(graph, verts, start_vertice):
 def main():
     """Program main function."""
     print("\n")
-    print('Dijkstry Algorithm.')
+    print('Dijkstra\'s algorithm.')
     print('=' * 40)
     print("\n")
     number_of_verts = get_number_of_vertices()
-    number_of_edges = get_number_of_edges()
+    number_of_edges = get_number_of_edges(number_of_verts)
     verts = range(number_of_verts)
     start_vertice = get_start_vertice(number_of_verts)
     graph = get_graph(number_of_verts, number_of_edges, verts)
