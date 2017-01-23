@@ -1,0 +1,13 @@
+Średni wzrost osoby z kolorem oczu pink wynosi 180.00 cm.
+Średni wzrost osoby z kolorem oczu red, blue wynosi 96.00 cm.
+Średni wzrost osoby z kolorem oczu green, yellow wynosi 216.00 cm.
+Średni wzrost osoby z kolorem oczu blue-gray wynosi 182.00 cm.
+Średni wzrost osoby z kolorem oczu unknown wynosi 136.00 cm.
+Średni wzrost osoby z kolorem oczu orange wynosi 180.50 cm.
+Średni wzrost osoby z kolorem oczu hazel wynosi 174.00 cm.
+Średni wzrost osoby z kolorem oczu gold wynosi 191.00 cm.
+Średni wzrost osoby z kolorem oczu brown wynosi 165.06 cm.
+Średni wzrost osoby z kolorem oczu red wynosi 154.80 cm.
+Średni wzrost osoby z kolorem oczu blue wynosi 179.33 cm.
+Średni wzrost osoby z kolorem oczu black wynosi 182.38 cm.
+Średni wzrost osoby z kolorem oczu yellow wynosi 177.82 cm.
