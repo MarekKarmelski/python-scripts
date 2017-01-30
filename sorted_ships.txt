@@ -1,0 +1,13 @@
+Death Star kosztuje 1000000000000 credits
+Executor kosztuje 1143350000 credits
+Star Destroyer kosztuje 150000000 credits
+Calamari Cruiser kosztuje 104000000 credits
+EF76 Nebulon-B escort frigate kosztuje 8500000 credits
+CR90 corvette kosztuje 3500000 credits
+Sentinel-class landing craft kosztuje 240000 credits
+Imperial shuttle kosztuje 240000 credits
+B-wing kosztuje 220000 credits
+A-wing kosztuje 175000 credits
+X-wing kosztuje 149999 credits
+Y-wing kosztuje 134999 credits
+Millennium Falcon kosztuje 100000 credits

@@ -1,0 +1,55 @@
+Luke Skywalker wazy 77 kg, jest male i ma nadwagę 
+C-3PO wazy 75 kg, jest n/a i ma nadwagę 
+R2-D2 wazy 32 kg, jest n/a i ma nadwagę 
+Darth Vader wazy 136 kg, jest male i ma nadwagę 
+Leia Organa wazy 49 kg, jest female i ma normę 
+Owen Lars wazy 120 kg, jest male i ma nadwagę 
+Beru Whitesun lars wazy 75 kg, jest female i ma nadwagę 
+R5-D4 wazy 32 kg, jest n/a i ma nadwagę 
+Biggs Darklighter wazy 84 kg, jest male i ma nadwagę 
+Obi-Wan Kenobi wazy 77 kg, jest male i ma normę 
+Anakin Skywalker wazy 84 kg, jest male i ma normę 
+Chewbacca wazy 112 kg, jest male i ma normę 
+Han Solo wazy 80 kg, jest male i ma normę 
+Greedo wazy 74 kg, jest male i ma normę 
+Jabba Desilijic Tiure wazy 1,358 kg, jest hermaphrodite i ma niedowagę 
+Wedge Antilles wazy 77 kg, jest male i ma nadwagę 
+Jek Tono Porkins wazy 110 kg, jest male i ma nadwagę 
+Yoda wazy 17 kg, jest male i ma nadwagę 
+Palpatine wazy 75 kg, jest male i ma nadwagę 
+Boba Fett wazy 78.2 kg, jest male i ma normę 
+IG-88 wazy 140 kg, jest none i ma nadwagę 
+Bossk wazy 113 kg, jest male i ma nadwagę 
+Lando Calrissian wazy 79 kg, jest male i ma nadwagę 
+Lobot wazy 79 kg, jest male i ma nadwagę 
+Ackbar wazy 83 kg, jest male i ma nadwagę 
+Wicket Systri Warrick wazy 20 kg, jest male i ma nadwagę 
+Nien Nunb wazy 68 kg, jest male i ma nadwagę 
+Qui-Gon Jinn wazy 89 kg, jest male i ma normę 
+Nute Gunray wazy 90 kg, jest male i ma normę 
+PadmÃ© Amidala wazy 45 kg, jest female i ma niedowagę 
+Jar Jar Binks wazy 66 kg, jest male i ma niedowagę 
+Roos Tarpals wazy 82 kg, jest male i ma niedowagę 
+Sebulba wazy 40 kg, jest male i ma nadwagę 
+Darth Maul wazy 80 kg, jest male i ma nadwagę 
+Ayla Secura wazy 55 kg, jest female i ma niedowagę 
+Ratts Tyerell wazy 15 kg, jest male i ma normę 
+Dud Bolt wazy 45 kg, jest male i ma nadwagę 
+Ben Quadinaros wazy 65 kg, jest male i ma normę 
+Mace Windu wazy 84 kg, jest male i ma normę 
+Ki-Adi-Mundi wazy 82 kg, jest male i ma normę 
+Kit Fisto wazy 87 kg, jest male i ma normę 
+Adi Gallia wazy 50 kg, jest female i ma niedowagę 
+Plo Koon wazy 80 kg, jest male i ma normę 
+Gregar Typho wazy 85 kg, jest male i ma normę 
+Poggle the Lesser wazy 80 kg, jest male i ma normę 
+Luminara Unduli wazy 56.2 kg, jest female i ma normę 
+Barriss Offee wazy 50 kg, jest female i ma niedowagę 
+Dooku wazy 80 kg, jest male i ma normę 
+Jango Fett wazy 79 kg, jest male i ma normę 
+Zam Wesell wazy 55 kg, jest female i ma normę 
+Dexter Jettster wazy 102 kg, jest male i ma nadwagę 
+Lama Su wazy 88 kg, jest male i ma niedowagę 
+Wat Tambor wazy 48 kg, jest male i ma niedowagę 
+Shaak Ti wazy 57 kg, jest female i ma niedowagę 
+Grievous wazy 159 kg, jest male i ma nadwagę 
